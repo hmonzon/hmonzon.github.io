@@ -1,5 +1,7 @@
 # main links
 main:
+    - title: "CV"
+      url: /assets/cvHugoMonzon.pdf
   # - title: "About Me"
   #   url: https://hmonzon.github.io/
   # - title: "Sample Posts"
