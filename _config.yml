@@ -115,16 +115,16 @@ analytics:
 author:
   name             : "Hugo Monzon"
   avatar           : /assets/images/hugomonzon.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A postdoctoral researcher at RIKEN AIP"
+  bio              : "A postdoctoral researcher at AIST"
   location         : "Tokyo, Japan"
-  email            : hugo[dot]monzon[at]riken.jp
+  email            : hugo-monzon[at]aist.go.jp
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "ABI Team website"
+    - label: "Embodied AI Research Team"
       icon: "fas fa-fw fa-link"
-      url: "https://adaptive-bayesian.ai/people/"
+      url: "https://eart.airc.aist.go.jp/en/member/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hmonzon"
@@ -159,7 +159,7 @@ footer:
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  # url:
-  since: "2025"
+  since: "2026"
 
 
 # Reading Files
